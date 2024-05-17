@@ -8,7 +8,7 @@
 </ul>
 
 <hr>
-## Features:
+## ✨ Features:
 <ul>
 <li>**Create**: Add new books to the database with details such as title, author, genre, and publication date.</li>
   <li>**Read**: View a list of all books in the database, including detailed information for each book.</li>
